@@ -19,7 +19,8 @@ Infra do Projeto: [Render](https://render.com/).
 
 ## Documentos
 ### Casos de uso UML
-* [Diagrama de casos de uso](documentos/DiagramaDeCasosDeUso.png)
+* [Imagem](documentos/DiagramaDeCasosDeUso.png)
+* [LucidChart](https://lucid.app/lucidchart/d9bddf62-7fab-4646-ae60-30a241d7407f/edit?invitationId=inv_017f1b74-53b9-4201-9765-12e4125b7a63&page=0_0#)
 ### Modelo de Negocio
 * []()
 ### Prototipo
@@ -29,8 +30,7 @@ Infra do Projeto: [Render](https://render.com/).
 ### Modelo Conceitual
 * []()
 ### Diagrama Entidade Relacionamento
-* [pdf](documentos/der.pdf)
-* [lucidChart](https://lucid.app/lucidchart/d9bddf62-7fab-4646-ae60-30a241d7407f/edit?invitationId=inv_017f1b74-53b9-4201-9765-12e4125b7a63&page=0_0#)
+* [Pdf](documentos/der.pdf)
 ### Documento de concepção do projeto
 * []()
 ### Deploy do prototipo do projeto
