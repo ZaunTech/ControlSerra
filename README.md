@@ -29,7 +29,8 @@ Infra do Projeto: [Render](https://render.com/).
 ### Modelo Conceitual
 * []()
 ### Diagrama Entidade Relacionamento
-* [der](documentos/der.pdf)
+* [pdf](documentos/der.pdf)
+* [lucidChart](https://lucid.app/lucidchart/d9bddf62-7fab-4646-ae60-30a241d7407f/edit?invitationId=inv_017f1b74-53b9-4201-9765-12e4125b7a63&page=0_0#)
 ### Documento de concepção do projeto
 * []()
 ### Deploy do prototipo do projeto
