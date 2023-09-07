@@ -19,7 +19,7 @@ Infra do Projeto: [Render](https://render.com/).
 
 ## Documentos
 ### Casos de uso UML
-* []()
+* [Diagrama de casos de uso](documentos/DiagramaDeCasosDeUso.png)
 ### Modelo de Negocio
 * []()
 ### Prototipo
@@ -28,6 +28,8 @@ Infra do Projeto: [Render](https://render.com/).
 * []()
 ### Modelo Conceitual
 * []()
+### Diagrama Entidade Relacionamento
+* [der](documentos/der.pdf)
 ### Documento de concepção do projeto
 * []()
 ### Deploy do prototipo do projeto
