@@ -13,7 +13,7 @@ BackEnd: [NodeJS](https://nodejs.org/pt-br), [Typescript](https://www.typescript
 
 FrontEnd: [ReactTS](https://react.dev/).
 
-Banco de Dados: [MySql](https://www.mysql.com/).
+Banco de Dados: [PostgreSQL](https://www.postgresql.org/).
 
 Infra do Projeto: [Render](https://render.com/).
 
